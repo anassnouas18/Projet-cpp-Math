@@ -30,7 +30,6 @@ void normaliser(float *u, int dim) {
 void grahm_schmidt() {
     int dim, dim1;
 
-    // Demander à l'utilisateur la dimension de la base et du vecteur
     cout << "Entrer la dimension de la base : ";
     cin >> dim1;
 
